@@ -8,5 +8,6 @@ import Turbolinks from "turbolinks"
 import "channels"
 import "@fortawesome/fontawesome-free/css/all"
 
+
 Rails.start()
 Turbolinks.start()
